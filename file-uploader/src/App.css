@@ -1,0 +1,8 @@
+.App{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+.inputform, .filelist{
+  margin-top: 2vh;
+}
